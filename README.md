@@ -20,5 +20,5 @@ I aim to not only enhance my proficiency, but to also contribute meaningfully to
 
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/venancio-sevilla-4b37802b7/)
-- [Instagram](https://www.instagram.com/vsevilla/)
+- [Instagram](https://www.instagram.com/v.sevilla/)
 
