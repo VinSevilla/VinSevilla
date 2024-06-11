@@ -13,7 +13,7 @@ I aim to not only enhance my proficiency, but to also contribute meaningfully to
 - 🌱 I’m currently learning Full Stack development.
 
 ### Fun Fact
-- ⚡ Fun fact: I have a recording of inventing the Apple AirTag way before it was introduced.
+- ⚡ Fun fact: I have a recording of me inventing the Apple AirTag waaay before it was introduced.
 
 ### Contact Me
 - 📫 How to reach me: Feel free to shoot me an email at vls.sevilla@gmail.com.
