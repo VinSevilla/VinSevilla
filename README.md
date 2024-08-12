@@ -26,7 +26,7 @@ I aim to not only enhance my proficiency, but to also contribute meaningfully to
 <!--[LinkedIn](https://www.linkedin.com/in/venancio-sevilla-4b37802b7/)-->
 <!--[Instagram](https://www.instagram.com/v.sevilla/)-->
 <p align="left">
-<a href="https://www.linkedin.com/in/venancio-sevilla-4b37802b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinsevilla" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/venancio-sevilla-4b37802b7/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinsevilla" height="30" width="40" /></a>
 <a href="https://instagram.com/v.sevilla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="v.sevilla" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/vinsevilla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vinsevilla" height="30" width="40" /></a>
 </p>
