@@ -14,7 +14,7 @@ I aim to not only enhance my proficiency, but to also contribute meaningfully to
 - 👀 I’m interested in MMA, Working out, Cooking, Video games, Anime, and most importantly Donuts!
   
 ### Learning Journey
-- 🌱 I’m currently learning Full Stack development.
+- 🌱 I’m currently learning Full Stack development and Python.
 
 ### Fun Fact
 - ⚡ Fun fact: I have a recording of me inventing the Apple AirTag waaay before it was introduced.
