@@ -11,10 +11,10 @@ Just a guy continously practicing to hone and improve my programming abilities.
 I aim to not only enhance my proficiency, but to also contribute meaningfully to projects in the real world.
 
 ### Interests
-- 👀 I’m interested in MMA, Working out, Cooking, Video games, Anime, and most importantly Donuts!
+- 👀 I’m interested in MMA, working out, cooking, video games, anime, and most importantly donuts!
   
 ### Learning Journey
-- 🌱 I’m currently learning Full Stack development and Python.
+- 🌱 I’m currently learning AI, machine learning, and Python.
 
 ### Fun Fact
 - ⚡ Fun fact: I have a recording of me inventing the Apple AirTag waaay before it was introduced.
